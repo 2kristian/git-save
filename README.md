@@ -12,3 +12,4 @@
 10. git merge " es para incluir las ramas creadas al master " 
 11. git branch  -d nombre de rama " 
 12. git git push
+13. git commit -am "mensaje para enviar"

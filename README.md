@@ -7,3 +7,5 @@
 5- git checkout -- .  "Sirve para recuperar cosas que hemos borrado despues del ultimo commit"
 6- git log  
 7- git commit --amend "Sirve para arreglar mensaje de commit erronio"
+8- git checkout -b rama-heroes
+

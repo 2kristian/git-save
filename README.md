@@ -4,4 +4,4 @@
 2- git add .
 3- git reset .
 4- git commit -m " poner mensaje aqui "
-5- 
+5- git checkout -- .

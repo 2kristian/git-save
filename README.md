@@ -13,3 +13,11 @@
 11. git branch  -d nombre de rama " 
 12. git git push
 13. git commit -am "mensaje para enviar"
+
+echo "# exemple" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/2kristian/exemple.git
+git push -u origin main
